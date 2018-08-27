@@ -1,1 +1,1 @@
-loja
+Storage System for various purposes.
